@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[December 17, 2021 (United States)]]>
+    </line>
+    <line>
+      <![CDATA[India]]>
+    </line>
+    <line>
+      <![CDATA[17 December 2021]]>
+    </line>
+    <line>
+      <![CDATA[India]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-02-21T14:29:06 IST" name="Suite" finished-at="2023-02-21T14:30:30 IST" duration-ms="83057">
+    <groups>
+    </groups>
+    <test started-at="2023-02-21T14:29:06 IST" name="Test" finished-at="2023-02-21T14:30:30 IST" duration-ms="83057">
+      <class name="pagefactory_testng.imdwikiTest">
+        <test-method signature="VerifyText()[pri:0, instance:pagefactory_testng.imdwikiTest@783a467b]" started-at="2023-02-21T14:29:07 IST" name="VerifyText" finished-at="2023-02-21T14:30:30 IST" duration-ms="82888" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[December 17, 2021 (United States)]]>
+            </line>
+            <line>
+              <![CDATA[India]]>
+            </line>
+            <line>
+              <![CDATA[17 December 2021]]>
+            </line>
+            <line>
+              <![CDATA[India]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- VerifyText -->
+      </class> <!-- pagefactory_testng.imdwikiTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
