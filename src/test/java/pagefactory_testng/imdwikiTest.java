@@ -7,6 +7,9 @@ import org.testng.Assert;
 import org.testng.Reporter;
 import org.testng.annotations.Test;
 
+import pagefactory_pages.imdpPage;
+import pagefactory_pages.wikiPage;
+
 
 
 
@@ -19,7 +22,7 @@ public class imdwikiTest {
 	
 @Test
 public void VerifyText() throws Throwable {
-	System.setProperty("webdriver.chrome.driver","F:\\software\\chromedriver109\\chromedriver_win32\\chromedriver.exe");
+	System.setProperty("webdriver.chrome.driver","F:\\software\\chromedriver110\\chromedriver.exe");
 	    driver = new ChromeDriver();
 	    driver.get("https://www.imdb.com/");
 	    Thread.sleep(4000);

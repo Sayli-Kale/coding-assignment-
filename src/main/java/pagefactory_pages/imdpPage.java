@@ -1,4 +1,4 @@
-package pagefactory_testng;
+package pagefactory_pages;
 
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
